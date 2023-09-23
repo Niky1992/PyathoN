@@ -12,3 +12,4 @@ for i in range(N):
         else:
             numbers = 1
 
+
